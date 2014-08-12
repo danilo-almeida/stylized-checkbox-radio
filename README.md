@@ -1,4 +1,12 @@
 stylized-checkbox-radio
-=======================
+=========
 
-A small code in css to help people who are starting to make a checkbox or radio button with stylized font-awesome.
+----
+Faça um clone deste repositório, caso você tenha [Bower] configurado basta execute o seguinte comando:
+
+```sh
+bower install
+```
+Avisando que é apenas uma dica básica.
+
+[Bower]:http://bower.io/
