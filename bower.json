@@ -1,0 +1,21 @@
+{
+  "name": "LQDI CMS",
+  "version": "1.0.0",
+  "authors": [
+    "lqdi.net"
+  ],
+  "description": "lqdi.net",
+  "main": "index.html",
+  "keywords": [
+    "LQDI Digital"
+  ],
+  "license": "MIT",
+  "homepage": "lqdi.net",
+  "private": true,
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "~3.2.0",
+    "normalize-css": "~3.0.1"
+  },
+  "devDependencies": {}
+}
